@@ -3,8 +3,8 @@
 
 __www.camelcamelcamel.ca__
 
-__ Languages: __
+ __Languages:__
 * Java
 
-__ Working: __ 
+ __Working:__
 * Scrapes all pages and saves an csv file with all links
